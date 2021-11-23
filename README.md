@@ -1,8 +1,8 @@
 ## Olá! eu sou o Rafael Camargo, estudante de Ciência da Computação 👨‍🎓🖥️
 <div align="center">
   <a href="https://github.com/rafandoo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff7b72"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafandoo&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff7b72"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafandoo&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 </div>
 
   
