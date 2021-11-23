@@ -1,9 +1,11 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá! eu sou o Rafael Camargo, estudante de Ciência da Computação
 <div align="center">
   <a href="https://github.com/rafandoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafandoo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff7b72"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafandoo&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 </div>
+
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
