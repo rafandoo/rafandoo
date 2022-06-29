@@ -1,3 +1,7 @@
+<img align="left" height="160" src="http://www.lalocadelosgatos.com/wp-content/uploads/2010/10/gato-tecladoo.gif"  />
+
+###
+
 <h2 align="left">Hey👋! Meu nome é Rafael Camargo</h2>
 
 ###
@@ -6,7 +10,11 @@
 
 ###
 
-<h3 align="left">🖥️ Meus conhecimentos:</h3>
+<p align="left"></p>
+
+###
+
+<h3 align="left">Meus conhecimentos:</h3>
 
 ###
 
@@ -20,7 +28,7 @@
 
 ###
 
-<h3 align="left">📖 Estou aprendendo:</h3>
+<h3 align="left">Estou aprendendo:</h3>
 
 ###
 
@@ -28,14 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="55" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="55" alt="javascript logo"  />
 </div>
-
-###
-
-<img align="right" height="160" src="http://www.lalocadelosgatos.com/wp-content/uploads/2010/10/gato-tecladoo.gif"  />
-
-###
-
-<h2 align="left"></h2>
 
 ###
 
@@ -64,6 +64,6 @@
 
 ###
 
-![Snake animation](https://github.com/rafandoo/rafandoo/blob/output/github-contribution-grid-snake.svg)
+<img href="https://raw.githubusercontent.com/rafandoo/rafandoo/blob/output/snake.svg" alt="Snake animation" />
 
 ###
