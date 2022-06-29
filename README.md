@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Meus conhecimentos:</h3>
+<h3 align="left">🖥️ Meus conhecimentos:</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">Estou aprendendo:</h3>
+<h3 align="left">📖 Estou aprendendo:</h3>
 
 ###
 
@@ -64,6 +64,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/rafandoo/rafandoo/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/rafandoo/rafandoo/blob/output/github-contribution-grid-snake.svg)
 
 ###
