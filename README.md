@@ -1,28 +1,69 @@
-## Olá! Eu sou o Rafael Camargo, estudante de Ciência da Computação 👨‍🎓🖥️
-<div align="center">
-  <a href="https://github.com/rafandoo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafandoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff7b72&cache_seconds=3000"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafandoo&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58a6ff&cache_seconds=3000"/>
+<h2 align="left">Hey👋! Meu nome é Rafael Camargo</h2>
+
+###
+
+<p align="left">Tenho 20 anos moro em Santa Catarina, sou estudante de Bacharel em Ciência da Computação pelo Instituto Federal Catarinense, e atualmente trabalho como Suporte Técnico na Obus Informatica.</p>
+
+###
+
+<h3 align="left">🖥️ Meus conhecimentos:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="55" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="55" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="55" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="55" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="35" width="55" alt="php logo"  />
 </div>
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <!--img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"-->
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!--img align="center" alt="Rafa-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"-->
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/rafandoo/rafandoo/blob/main/img/Ao.gif">
+###
+
+<h3 align="left">📖 Estou aprendendo:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="55" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="55" alt="javascript logo"  />
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/rafandoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.deezer.com/en/profile/2270331788" target="_blank"><img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rafaelcamargo.inf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-jos%C3%A9-camargo-bekhauser-801630186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafandoo/rafandoo/blob/output/github-contribution-grid-snake.svg)
- 
+
+###
+
+<img align="right" height="160" src="http://www.lalocadelosgatos.com/wp-content/uploads/2010/10/gato-tecladoo.gif"  />
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/rafandoo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:rafaelcamargo.inf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-jos%C3%A9-camargo-bekhauser-801630186/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<h3 align="left">⚡GitHub Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&username=rafandoo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura_dark&hide_border=false&username=rafandoo" height="150" alt="languages graph"  />
+</div>
+
+###
+
+![Snake animation](https://github.com/rafandoo/rafandoo/blob/output/github-contribution-grid-snake.svg)
+
+###
