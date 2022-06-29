@@ -1,4 +1,4 @@
-<img align="left" height="160" src="http://www.lalocadelosgatos.com/wp-content/uploads/2010/10/gato-tecladoo.gif"  />
+<img align="right" height="160" src="http://www.lalocadelosgatos.com/wp-content/uploads/2010/10/gato-tecladoo.gif"  />
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"></p>
+<h3 align="left"></h3>
 
 ###
 
