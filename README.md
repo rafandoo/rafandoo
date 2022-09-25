@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm 20 years old, I am a Bachelor in Computer Science student at the Federal Institute of Santa Catarina, and I currently work as Technical Support at Obus Informatica.</p>
+<p align="left">I'm 20 years old, I'm a Bachelor in Computer Science student at the Federal Institute of Santa Catarina, and I currently work as Technical Support at Obus Informatica.</p>
 
 ###
 
