@@ -1,8 +1,8 @@
-<img align="right" height="160" src="http://www.lalocadelosgatos.com/wp-content/uploads/2010/10/gato-tecladoo.gif"/>
+<img align="right" height="160" src="https://github.com/rafandoo/rafandoo/blob/47dd14d905522f3c9284c66767cb232e34242bed/img/Ao.gif" alt="gato digitando"/>
 
 ## Hey👋! I'm Rafael Camargo
 
-<p align="left">I'm 20 years old, I'm a Bachelor in Computer Science student at the Federal Institute of Santa Catarina, and I currently work as Technical Support at Obus Informatica.</p>
+<p align="left">Hey, I'm Rafael, 21 years old, and I'm studying Computer Science at the Federal Institute of Santa Catarina (IFC)</p>
 
 ### 🖥️ My knowledge:
 
